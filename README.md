@@ -11,8 +11,8 @@ Modifying it is exactly the same process as training YOLO with your own dataset.
 + [ultralytics/YOLOv5](https://github.com/ultralytics/yolov5/wiki) with no modifications
 + [abewley/SORT](https://github.com/abewley/sort) with minor modifications 
 
-This repository uses a fixed version of YOLOv5 to ensure compatbility. Replacing the YOLOv5 code to the updated ultralytics/YOLOv5 code may result in breaking changes. 
-
+This repository uses a fixed version of YOLOv5 to ensure compatbility. Replacing the YOLOv5 code to the updated ultralytics/YOLOv5 code may result in breaking changes. In this repo use YOLOv5 v4 
+https://github.com/ultralytics/yolov5/releases/tag/v4.0
 ## Using TrackingBee
 
 Clone this repository
