@@ -61,7 +61,6 @@ where
 + y_center: y center coordinates of bbox
 + count: total number of bees in 1 frame
 
-TrackingBee is updating the process of counting bees in and out
 
 
 ![image](https://user-images.githubusercontent.com/106183467/186697442-01200d8e-e81d-4b70-bfc9-bb7f70caf253.png)
